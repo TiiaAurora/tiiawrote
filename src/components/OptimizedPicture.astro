@@ -2,7 +2,7 @@
 import { Picture } from "astro:assets";
 
 interface Props {
-  src: string;
+  src: unknown;
   alt: string;
   widths?: number[];
   sizes?: string;
@@ -21,12 +21,12 @@ const {
            1960px`,
   formats = ["avif"],
   fallbackFormat = "avif",
-  class: className = "mx-auto w-full max-w-full rounded-lg"
+  class: className = "mx-auto w-full max-w-full rounded-lg",
 } = Astro.props;
 ---
 
 <Picture
-  src={src}
+  src={src as string}
   alt={alt}
   widths={widths}
   sizes={sizes}

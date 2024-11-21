@@ -9,11 +9,11 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://verse-astro.vercel.app/",
+  site: "https://cosmicwispers.netlify.app/",
   trailingSlash: "always",
   prefetch: {
     prefetchAll: true,
-    defaultStrategy: 'viewport',
+    defaultStrategy: "viewport",
   },
 
   experimental: {
@@ -51,6 +51,5 @@ export default defineConfig({
         tabler: ["*"],
       },
     }),
-    
   ],
 });

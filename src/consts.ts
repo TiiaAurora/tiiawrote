@@ -29,16 +29,16 @@ export function getCategoryMetadata(category: string) {
 
 // Header Links, src/components/Header.astro
 export const HeaderLinks = [
-  { href: "/category/One/1/", title: "H.P. Lovecraft" },
-  { href: "/category/Two/1/", title: "Poems" },
-  { href: "/category/Three/1/", title: "Short Stories" },
-  { href: "/category/Three/1/", title: "Thoughts" },
+  { href: "/category/Lovecraft/1/", title: "H.P. Lovecraft" },
+  { href: "/category/Poems/1/", title: "Poems" },
+  { href: "/category/Short/1/", title: "Short Stories" },
+  { href: "/category/Thoughts/1/", title: "Thoughts" },
 ];
 
 // Footer Links, src/components/Footer.astro
 export const FooterLinks = [
-  /*   { href: "/posts/why-astro/", title: "Astro" },
-  { href: "/posts/tailwind-typography/", title: "Tailwind" }, */
+  { href: "/posts/why/", title: "Why" },
+  /*   { href: "/posts/tailwind-typography/", title: "Tailwind" }, */
   { href: "/tags/", title: "Tags" },
 ];
 

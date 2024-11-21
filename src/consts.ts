@@ -46,24 +46,29 @@ export const FooterLinks = [
 export const SocialLinks = [
   { href: "/rss.xml", icon: "tabler:rss", label: "RSS" },
   {
-    href: "https://twitter.com/inotelab",
+    href: "https://www.threads.net/@tiiaaurora/",
     icon: "tabler:brand-threads",
     label: "Threads",
   },
   {
-    href: "https://github.com/inotelab",
+    href: "https://bsky.app/profile/tiiaaurora.bsky.social",
     icon: "tabler:brand-bluesky",
     label: "BlueSky",
   },
   {
-    href: "https://github.com/inotelab",
+    href: "https://chaos.social/@TiiaAurora",
     icon: "tabler:brand-mastodon",
     label: "Mastodon",
   },
   {
-    href: "https://github.com/inotelab",
+    href: "https://www.instagram.com/tiiaaurora",
     icon: "tabler:brand-instagram",
     label: "Instagram",
+  },
+  {
+    href: "https://discord.gg/tiiaaurora",
+    icon: "tabler:brand-discord",
+    label: "Discord",
   },
 ];
 

@@ -8,12 +8,12 @@ tags:
   - November
   - English
 pubDate: 2024-11-21
-cover: ../../images/kitties.jpg
+cover: ../../images/november.png
 coverAlt: AstroVerse-Aliases
 author: TiiaAurora
 ---
 
-[November]
+## November
 
 In silence,<br/>
 The heart yearns deep<br/>

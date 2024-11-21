@@ -8,10 +8,11 @@ tags:
   - Intro
   - About Me
   - Welcome
+  - English
 pubDate: 2024-11-21
-cover: ../../images/kitties.jpg
+cover: ../../images/why.png
 coverAlt: AstroVerse-Aliases
-author: VV
+author: TiiaAurora
 ---
 
 Astro is an **all-in-one** **web framework** for building **fast,** **content-focused websites.**

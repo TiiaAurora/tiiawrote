@@ -32,6 +32,6 @@ By past misdeeds forever dread<br/>
 From torment that will never cease<br/>
 
 Though seeking calm, he finds no rest<br/>
-No piece to find in nights embrace<br/>
+No peace to find in nights embrace<br/>
 In shadows deep his soul abcessed<br/>
 Eternal pain is fate to face<br/>

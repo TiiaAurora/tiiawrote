@@ -27,44 +27,44 @@ I step into the lower level of the train and see that most of the seats are take
 By the window, a young man, probably Turkish, sits with short hair and a full beard. Anyone who's taken the train will know that seats next to foreigners often remain empty. Subtle racism, perhaps. In my case, it works out in my favor. I ask him if the seat next to him is free, and he smiles and says I can sit down.
 Of course, the seat was free, but I try to be polite.
 
-He might’ve been expecting me to ask, "Would you mind if I sat next to you?" but I phrased it differently, more personal. It’s a seat in a four-person section, and across from the Turkish man is an empty seat, where he stretches out his legs, staring dreamily out the window. He has headphones on, and I regret leaving mine at home.
+He might've been expecting me to ask, "Would you mind if I sat next to you?" but I phrased it differently, more personal. It's a seat in a four-person section, and across from the Turkish man is an empty seat, where he stretches out his legs, staring dreamily out the window. He has headphones on, and I regret leaving mine at home.
 
 Opposite me sits an Asian woman. I can't quite read her expression. She looks tense, and between our seats is a row of shopping bags. Her clothing stands out to me — a tasteful brown and beige outfit, with a light brown bag, and a turquoise ring that matches her nail polish. It reminds me of my elementary school teacher, she wore similar jewelry.
 
 The train starts moving.
-Two rows away, three young Turkish couples are chatting animatedly, joking around. It seems like they had a good day and are on their way home. I can’t understand what they’re saying, but I listen closely. Occasionally, some German sentences mix into the Turkish, giving me clues about their conversation. I envy one of the couples for the closeness they display — I always thought such intimacy only existed in movies. Yet here they are, clearly in the first bloom of love.
+Two rows away, three young Turkish couples are chatting animatedly, joking around. It seems like they had a good day and are on their way home. I can't understand what they're saying, but I listen closely. Occasionally, some German sentences mix into the Turkish, giving me clues about their conversation. I envy one of the couples for the closeness they display — I always thought such intimacy only existed in movies. Yet here they are, clearly in the first bloom of love.
 
 I hear a sniffle and glance in the direction of the sound.
-The Asian girl is staring out the window, her face strained, with a tear rolling down her cheek. Suddenly, I feel helpless and overwhelmed. I dig through my bag, searching for a tissue, and hand it to her. She smiles awkwardly and nods as she takes it. We don’t speak. She wipes away her tears, holds the tissue gently in her hands, and continues looking out the window. I try not to stare at her.
+The Asian girl is staring out the window, her face strained, with a tear rolling down her cheek. Suddenly, I feel helpless and overwhelmed. I dig through my bag, searching for a tissue, and hand it to her. She smiles awkwardly and nods as she takes it. We don't speak. She wipes away her tears, holds the tissue gently in her hands, and continues looking out the window. I try not to stare at her.
 
-The train stops, and we all get off. The Turkish conversation fades, replaced by the hectic rush of people standing up, pushing, and exiting the train. I’m not done with my journey yet. I still need to catch a bus.
+The train stops, and we all get off. The Turkish conversation fades, replaced by the hectic rush of people standing up, pushing, and exiting the train. I'm not done with my journey yet. I still need to catch a bus.
 
-At the bus stop, there are two stocky boys whose age I can't quite guess. They have bad skin, wear baseball caps, and are dressed in baggy pants that no one’s worn since the 90s. They’re talking about money and how to get it.
+At the bus stop, there are two stocky boys whose age I can't quite guess. They have bad skin, wear baseball caps, and are dressed in baggy pants that no one's worn since the 90s. They're talking about money and how to get it.
 
 "You need to open a bank," says one. "That way, you'll get loads of money just for moving it from one person to another." The second boy nods, but I can tell he has no idea what his friend is talking about.
 "Do you even know how money is made?" asks the first boy.
 The second hesitates. "They print it?" he asks uncertainly.
-"Yeah, that's just the paper. It doesn't have any value by itself; it only represents value. Money comes from debt. All the money you have is someone else’s debt. We’re all living on credit, and it’s going to catch up to us."
+"Yeah, that's just the paper. It doesn't have any value by itself; it only represents value. Money comes from debt. All the money you have is someone else's debt. We're all living on credit, and it's going to catch up to us."
 
 The second boy looks doubtful.
-“Well, I don’t have any debt,” he says after a pause.
-"You have to think bigger. Germany has debt, Europe has debt, the whole world has debt. There's more debt than we have money. If people really understood our money and economic system, there’d be a revolution tomorrow."
+“Well, I don't have any debt,” he says after a pause.
+"You have to think bigger. Germany has debt, Europe has debt, the whole world has debt. There's more debt than we have money. If people really understood our money and economic system, there'd be a revolution tomorrow."
 
-I picture images of Frankfurt, with people protected by barbed wire fences because citizens have taken to the streets. The bus arrives, and I see that it’s packed—very packed. I pay for my ticket and find a spot in the middle, holding onto a bus pole. I notice an older man, who I estimate to be well over 80. To my left is a group of teenage girls, whispering.
+I picture images of Frankfurt, with people protected by barbed wire fences because citizens have taken to the streets. The bus arrives, and I see that it's packed—very packed. I pay for my ticket and find a spot in the middle, holding onto a bus pole. I notice an older man, who I estimate to be well over 80. To my left is a group of teenage girls, whispering.
 
-An elderly woman boards the bus and sharply asks a passenger to give up their seat for her. She waves her disability card in their face. “You don’t just get this for nothing,” she snaps.
+An elderly woman boards the bus and sharply asks a passenger to give up their seat for her. She waves her disability card in their face. “You don't just get this for nothing,” she snaps.
 The man replies, “Yeah, you can buy those too.”
 I see that her card doesn't entitle her to a special seat and that she paid for her own bus ticket. Still, the man stands up, and she sits down in his place.
 
-As the bus starts moving, I glance at the old man again. His ears are enormous, and his facial expressions shift constantly. He whispers, "Shoot, don’t shoot," as he looks out the window.
-“Don’t leave me behind,” he mutters next.
+As the bus starts moving, I glance at the old man again. His ears are enormous, and his facial expressions shift constantly. He whispers, "Shoot, don't shoot," as he looks out the window.
+“Don't leave me behind,” he mutters next.
 In his mind, he seems to be playing out a movie of his own. Maybe he thinks he's at war, reliving old memories.
 
-In front of him sits a man in his late thirties, dressed in a work uniform for a security company. He’s holding a bouquet of roses, one of which is already broken and hanging down. I smile and imagine being the person receiving those flowers. I’d be happy. The bouquet is far from perfect, but the thought behind it is wonderful. I catch sight of his name badge, hanging from his keychain on his belt.
+In front of him sits a man in his late thirties, dressed in a work uniform for a security company. He's holding a bouquet of roses, one of which is already broken and hanging down. I smile and imagine being the person receiving those flowers. I'd be happy. The bouquet is far from perfect, but the thought behind it is wonderful. I catch sight of his name badge, hanging from his keychain on his belt.
 Ferdinand. A rare but strong name.
 
 At the next stop, a seat becomes free, and I sit down. No one else wants to sit next to Ferdinand.
-Across from him sits a man who, by my subjective judgment, is quite handsome. He’s sitting there smiling, looking friendly—until he suddenly starts murmuring to himself, laughing, and continuing to talk. Okay, creepy.
+Across from him sits a man who, by my subjective judgment, is quite handsome. He's sitting there smiling, looking friendly—until he suddenly starts murmuring to himself, laughing, and continuing to talk. Okay, creepy.
 For the next fifteen minutes, I try to avoid his gaze.
 
 "At my 9 o'clock, shoot," the old man behind me whispers excitedly, holding his keys up to his face as if they were a radio. I glance to the left, and there is Ferdinand.
@@ -72,4 +72,4 @@ For the next fifteen minutes, I try to avoid his gaze.
 My stop is next. I stand up, give Ferdinand one last look, and leave the bus.
 The murmuring and the muffled sounds from countless headphones fade away.
 
-Just five more minutes, and I’ll be home.
+Just five more minutes, and I'll be home.

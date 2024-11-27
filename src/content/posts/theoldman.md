@@ -1,7 +1,7 @@
 ---
 title: The Old Man
 slug: the-old-man
-description: ""
+description: "Second short story adding to Ferdinand"
 category:
   - Short
 tags:
@@ -14,7 +14,7 @@ coverAlt: AstroVerse-Aliases
 author: TiiaAurora
 ---
 
-## The old man
+## The Old Man
 
 <p class="speech">Erwin, 78. Still in relatively good shape for his age. A few episodes every now and then, but you should be able to manage easily. He is otherwise very sociable and doesn't say much.</p>
 

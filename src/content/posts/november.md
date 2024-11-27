@@ -8,7 +8,7 @@ tags:
   - November
   - English
 pubDate: 2024-11-21
-cover: ../../images/november.png
+cover: ../../images/november2.png
 coverAlt: AstroVerse-Aliases
 author: TiiaAurora
 ---

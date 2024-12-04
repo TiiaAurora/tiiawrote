@@ -10,6 +10,10 @@ const { title, description } = Astro.props;
 <html lang="en">
   <head>
     <BaseHead title={title} description={description} />
+    <script
+      defer
+      data-domain="cosmicwhispers.netlify.app"
+      src="https://purr.tiia.rocks/js/plausible.js"></script>
   </head>
   <body
     class="mx-auto flex min-h-screen max-w-6xl flex-col px-4 dark:prose-invert sm:px-6 lg:px-8 dark:bg-neutral-900"

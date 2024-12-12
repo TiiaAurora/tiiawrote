@@ -20,7 +20,7 @@ author: TiiaAurora
 Clouds in the sky<br/>
 the lightning devours<br/>
 A tree is in flames<br/>
-some screams far away<br/>
+Screams echo afar<br/>
 
 Her hands red, <br/>
 skin peeling,<br/>

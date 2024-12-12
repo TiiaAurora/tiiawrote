@@ -38,7 +38,7 @@ Her eyes pierce the smoke<br/>
 
 A pain in my head<br/>
 
-"This is not your world<br/>
+"This world is not yours<br/>
 nor is it mine. <br/>
 The flame may consume<br/>
 but never be confined"<br/>

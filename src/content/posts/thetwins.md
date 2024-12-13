@@ -45,7 +45,7 @@ but never be confined"<br/>
 
 Her hair catches fire<br/>
 Drop, Drop, Drop...,<br/>
-Her chest turn apart<br/>
+Her chest torn apart<br/>
 Drop, Drop, Drop...,<br/>
 
 The ground - a black puddle, <br/>

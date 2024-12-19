@@ -20,7 +20,7 @@ Does it matter?<br>
 A human body to keep you weak<br>
 A human brain to keep you contemplating<br>
 But your soul? Oh, it remembers.<br>
-And it telly you who you are<br>
+And it tells you who you are<br>
 Every. Single. Minute. Second. Tak.. Tak.. Tak..<br>
 It teases you in those troubled peaceful nights<br>
 Laughs at you quietly<br>

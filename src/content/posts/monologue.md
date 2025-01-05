@@ -18,7 +18,7 @@ author: TiiaAurora
 I close my eyes and close the book<br>
 The head has thought, the ink has dried<br>
 About the things that are, that might<br>
-The wonders I for granted I took<br>
+The wonders I for granted took<br>
 
 A voice that tells me to think straight<br>
 A pain that tells me to move on<br>

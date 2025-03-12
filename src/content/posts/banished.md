@@ -9,7 +9,7 @@ tags:
   - English
 pubDate: 2024-12-19
 cover: ../../images/banished.png
-coverAlt: AstroVerse-Aliases
+coverAlt: Photograph of a galaxy
 author: TiiaAurora
 ---
 
@@ -32,3 +32,4 @@ _Snap_ - Come back human! <br>
 Be a good boy. <br>
 Banished and chosen to keep it that way. <br>
 Good boy. <br>
+<br><br>

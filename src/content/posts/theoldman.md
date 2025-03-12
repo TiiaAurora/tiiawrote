@@ -10,7 +10,7 @@ tags:
   - English
 pubDate: 2024-11-27
 cover: ../../images/theoldman/theoldman.png
-coverAlt: AstroVerse-Aliases
+coverAlt: A man under a streetlight at night during fog
 author: TiiaAurora
 ---
 
@@ -268,3 +268,4 @@ Ingrid ran to reception to call the emergencies.
 ![Burning House](../../images/theoldman/burninghouse.jpg)
 
 <p class="caption">Photo by Andrey Karpov: https://www.pexels.com/photo/house-on-fire-5687983/</p>
+<br><br>

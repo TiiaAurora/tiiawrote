@@ -10,7 +10,7 @@ tags:
   - English
 pubDate: 2024-12-04
 cover: ../../images/andtheydanced.png
-coverAlt: AstroVerse-Aliases
+coverAlt: An autumn forest after a rain
 author: TiiaAurora
 ---
 
@@ -31,3 +31,4 @@ When will they realize, </br>
 that this is what it's about? </br>
 This is the purpose. </br>
 This is healing. </br>
+<br><br>

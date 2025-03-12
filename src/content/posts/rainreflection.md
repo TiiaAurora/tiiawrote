@@ -11,7 +11,7 @@ tags:
   - English
 pubDate: 2024-12-13
 cover: ../../images/rainreflections.png
-coverAlt: AstroVerse-Aliases
+coverAlt: An alleyway with puddles during rain at night
 author: TiiaAurora
 ---
 
@@ -51,3 +51,4 @@ The scent of my perfume is carried away with it,<br/>
 singing a song of lilies and roses<br/>
 to the next person<br/>
 or to no one.<br/>
+<br><br>

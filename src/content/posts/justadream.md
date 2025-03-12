@@ -9,7 +9,7 @@ tags:
   - English
 pubDate: 2024-11-21
 cover: ../../images/justadream.png
-coverAlt: AstroVerse-Aliases
+coverAlt: Northern Lights Aurora Borealis over a barren coastal land
 author: TiiaAurora
 ---
 
@@ -31,3 +31,4 @@ Yet dawn arrives, the dream retreats<br/>
 No ship sailed through the twilight veil<br/>
 Alone I wake with empty hands...<br/>
 And empty heart where shadows danced. <br/>
+<br><br>

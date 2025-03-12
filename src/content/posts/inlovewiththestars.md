@@ -10,7 +10,7 @@ tags:
   - English
 pubDate: 2024-11-26
 cover: ../../images/lovewithstars.png
-coverAlt: AstroVerse-Aliases
+coverAlt: The milkyway at night
 author: TiiaAurora
 ---
 
@@ -38,3 +38,4 @@ To stellar lights that guide and share<br/>
 The constellations known, unknown<br/>
 We leave behind our earthly care. <br/>
 Through galaxies we've never flown.<br/>
+<br><br>

@@ -10,7 +10,7 @@ tags:
   - English
 pubDate: 2024-12-28
 cover: ../../images/inbetween.png
-coverAlt: AstroVerse-Aliases
+coverAlt: A woman underwater
 author: TiiaAurora
 ---
 
@@ -37,3 +37,4 @@ I know the answer.<br>
 The fear so big I’d rather<br>
 Suffocate myself<br>
 Than face my truth. <br>
+<br><br>

@@ -9,7 +9,7 @@ tags:
   - English
 pubDate: 2025-01-06
 cover: ../../images/free.png
-coverAlt: AstroVerse-Aliases
+coverAlt: A white concrete cube in a while light flooded room
 author: TiiaAurora
 ---
 
@@ -62,3 +62,4 @@ It seems that life has chosen me<br>
 So I get up,<br>
 open the door,<br>
 and leave.<br>
+<br><br>

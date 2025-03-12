@@ -10,7 +10,7 @@ tags:
   - English
 pubDate: 2024-11-21
 cover: ../../images/wanderer.png
-coverAlt: AstroVerse-Aliases
+coverAlt: A row of pines at night with a strange light behind
 author: TiiaAurora
 ---
 
@@ -35,3 +35,4 @@ Though seeking calm, he finds no rest<br/>
 No peace to find in nights embrace<br/>
 In shadows deep his soul abcessed<br/>
 Eternal pain is fate to face<br/>
+<br><br>

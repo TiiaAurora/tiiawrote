@@ -11,7 +11,7 @@ tags:
   - English
 pubDate: 2024-11-26
 cover: ../../images/outsider.png
-coverAlt: AstroVerse-Aliases
+coverAlt: A female ghoul looking into a mirror, digital art
 author: TiiaAurora
 ---
 
@@ -36,3 +36,4 @@ With anguish deep, my soul did weep,<br/>
 For cursed existence, fraught with pain,<br/>
 In shadows dark, forever creep,<br/>
 A wretched life, in vain, in vain.<br/>
+<br><br>

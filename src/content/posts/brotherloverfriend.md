@@ -9,7 +9,7 @@ tags:
   - English
 pubDate: 2025-01-05
 cover: ../../images/brotherloverfriend.png
-coverAlt: AstroVerse-Aliases
+coverAlt: A murky and dark forest with light coming through the trees
 author: TiiaAurora
 ---
 
@@ -44,3 +44,4 @@ My brother, my lover, my friend<br>
 I am stranded without you.<br>
 I am stranded.<br>
 Without you.<br>
+<br><br>

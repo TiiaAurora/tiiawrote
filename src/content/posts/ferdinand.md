@@ -10,7 +10,7 @@ tags:
   - English
 pubDate: 2024-11-26
 cover: ../../images/ferdinandsh.png
-coverAlt: AstroVerse-Aliases
+coverAlt: A sunset
 author: TiiaAurora
 ---
 
@@ -88,3 +88,4 @@ My stop is next. I stand up, give Ferdinand one last look, and leave the bus.
 The murmuring and the muffled sounds from countless headphones fade away.
 
 Just five more minutes, and I'll be home.
+<br><br>

@@ -10,7 +10,7 @@ tags:
   - English
 pubDate: 2024-12-15
 cover: ../../images/healing.png
-coverAlt: AstroVerse-Aliases
+coverAlt: An image showing the same tree throughout all four seasons
 author: TiiaAurora
 ---
 
@@ -43,3 +43,4 @@ _I was at peace._ <br/>
 The third autumn exploded in colors I didn’t remember. It was filled with words, music, pictures, laughter and the sound of dry leaves on the ground that crumbled with every step. <br/>
 And I? <br/>
 _I loved._ <br/>
+<br><br>

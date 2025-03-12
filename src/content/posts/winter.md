@@ -10,7 +10,7 @@ tags:
   - English
 pubDate: 2024-12-20
 cover: ../../images/winter.png
-coverAlt: AstroVerse-Aliases
+coverAlt: A close up shot of a snowflake that landed vertically on the ground
 author: TiiaAurora
 ---
 
@@ -35,3 +35,4 @@ But that is silly, clouds don’t think<br>
 The sun just travels, does not sink<br>
 The birds just fly they aren’t lost<br>
 And snowflakes are just pretty frost. <br>
+<br><br>

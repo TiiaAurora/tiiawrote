@@ -10,7 +10,7 @@ tags:
   - English
 pubDate: 2025-02-12
 cover: ../../images/almostimpossible.png
-coverAlt: AstroVerse-Aliases
+coverAlt: Photograph of a galaxy
 author: TiiaAurora
 ---
 
@@ -47,3 +47,4 @@ For in your eyes,<br>
 they will always be<br>
 the reflection of your own expectations,<br>
 nothing more.<br>
+<br><br>

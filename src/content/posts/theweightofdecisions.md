@@ -11,7 +11,7 @@ tags:
   - English
 pubDate: 2024-12-13
 cover: ../../images/theweightofdecisions.png
-coverAlt: AstroVerse-Aliases
+coverAlt: A winter tree with a group of crows
 author: TiiaAurora
 ---
 
@@ -36,3 +36,4 @@ The nights are dark and silent,<br/>
 All pictures filled with distorted faces of the past.<br/>
 My memories covered with a black veil,<br/>
 Your name burnt in my mind and the loss - a void never filled.<br/>
+<br><br>

@@ -10,7 +10,7 @@ tags:
   - True Self
 pubDate: 2025-03-09
 cover: ../../images/behindtheglass.png
-coverAlt: AstroVerse-Aliases
+coverAlt: A glass pane with drops and light rays on it
 author: TiiaAurora
 ---
 

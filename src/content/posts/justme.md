@@ -11,7 +11,7 @@ tags:
   - Passion
 pubDate: 2024-12-13
 cover: ../../images/justme.png
-coverAlt: AstroVerse-Aliases
+coverAlt: A campfire burning at night
 author: TiiaAurora
 ---
 
@@ -38,3 +38,4 @@ I wouldn't want it any other way.<br/>
 The moment you see my eyes<br/>
 without passion, without curiosity,<br/>
 you'll know I've died.<br/>
+<br><br>

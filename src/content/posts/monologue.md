@@ -9,7 +9,7 @@ tags:
   - English
 pubDate: 2024-12-21
 cover: ../../images/monologue.png
-coverAlt: AstroVerse-Aliases
+coverAlt: Cluttered old books and handwritten notes
 author: TiiaAurora
 ---
 
@@ -54,3 +54,4 @@ But don’t you think that makes me proud?” <br>
 With scratches, tears <br>
 and hopes and fears<br>
 But this is how good stories start” <br>
+<br><br>

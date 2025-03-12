@@ -10,7 +10,7 @@ tags:
   - English
 pubDate: 2025-02-12
 cover: ../../images/elegybloomed.png
-coverAlt: AstroVerse-Aliases
+coverAlt: A dying rose
 author: TiiaAurora
 ---
 
@@ -45,3 +45,4 @@ And as the world stopped turning,<br>
 my soul turned to stone.<br>
 When the forests were burning,<br>
 I lost all I'd known.<br>
+<br><br>

@@ -9,7 +9,7 @@ tags:
   - English
 pubDate: 2024-12-19
 cover: ../../images/sillygame.png
-coverAlt: AstroVerse-Aliases
+coverAlt: A woman holding a candle and protecting its flame from the draft
 author: TiiaAurora
 ---
 
@@ -32,3 +32,4 @@ What a silly game. <br>
 Because the flame won't change. <br>
 
 This is how I love - Such a silly game. <br>
+<br><br>

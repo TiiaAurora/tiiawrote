@@ -11,7 +11,7 @@ tags:
   - Destruction
 pubDate: 2024-12-12
 cover: ../../images/thetwins.png
-coverAlt: AstroVerse-Aliases
+coverAlt: A red haired women with a feisty look. Flames in the background
 author: TiiaAurora
 ---
 
@@ -57,3 +57,4 @@ And so she will dance<br/>
 from ember to ember<br/>
 The ashes fall down<br/>
 She taints the December <br/>
+<br><br>

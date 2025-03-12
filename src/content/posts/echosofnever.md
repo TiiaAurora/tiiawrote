@@ -10,7 +10,7 @@ tags:
   - English
 pubDate: 2024-12-27
 cover: ../../images/echosofnever.png
-coverAlt: AstroVerse-Aliases
+coverAlt: Woman sitting in the dark on her bed
 author: TiiaAurora
 ---
 
@@ -45,3 +45,4 @@ And as I get out of bed and my naked feet touch the cold floor,<br>
 as the cold air makes me shiver,<br>
 and as the traffic noise from outside competes with my thoughts,<br>
 I realize I am homesick for a world that never existed.<br>
+<br><br>

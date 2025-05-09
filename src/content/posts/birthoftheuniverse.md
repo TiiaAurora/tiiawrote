@@ -14,7 +14,7 @@ coverAlt: Photograph of a galaxy
 author: TiiaAurora
 ---
 
-## Almost Impossible<br>
+## The Birth of the Universe<br>
 
 Today my heart birthed a star<br>
 small, bright, trembling with new light,<br>

@@ -18,7 +18,7 @@ author: TiiaAurora
 ## Homunculus
 
 Ein kleiner Kopf mit viel Gefühl,<br>
-Verwirrt vom lautem Leben sehr,<br>
+Verwirrt vom lauten Leben sehr,<br>
 Perplex von manchem Kinderspiel,<br>
 Geheimer Traum vom weiten Meer.<br>
 <br>
@@ -35,7 +35,7 @@ Du bist des Wassers wildes Kraut."<br>
 Doch wacht er auf, der große Kopf,<br>
 Zieht er die Maske über Träume,<br>
 So darf ich sein, mein Maul mir stopf,<br>
-Gedanken brauchen sichre Räume.<br>
+Gedanken brauchen sich're Räume.<br>
 <br>
 Der Kopf nun hier, doch ist nicht Schluss,<br>
 Die Maske nicht mehr groß genug.<br>
